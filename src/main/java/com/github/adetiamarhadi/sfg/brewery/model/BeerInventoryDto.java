@@ -1,4 +1,4 @@
-package com.github.adetiamarhadi.sfg.beer.inventory.service.web.model;
+package com.github.adetiamarhadi.sfg.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

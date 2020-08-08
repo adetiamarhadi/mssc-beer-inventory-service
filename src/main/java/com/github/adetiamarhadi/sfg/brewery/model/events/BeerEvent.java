@@ -1,6 +1,5 @@
-package com.github.adetiamarhadi.sfg.beer.common.events;
+package com.github.adetiamarhadi.sfg.brewery.model.events;
 
-import com.github.adetiamarhadi.sfg.beer.common.events.BeerDto;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

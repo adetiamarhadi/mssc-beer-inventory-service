@@ -1,6 +1,6 @@
 package com.github.adetiamarhadi.sfg.beer.inventory.service.services;
 
-import com.github.adetiamarhadi.sfg.beer.common.events.NewInventoryEvent;
+import com.github.adetiamarhadi.sfg.brewery.model.events.NewInventoryEvent;
 import com.github.adetiamarhadi.sfg.beer.inventory.service.config.JmsConfig;
 import com.github.adetiamarhadi.sfg.beer.inventory.service.domain.BeerInventory;
 import com.github.adetiamarhadi.sfg.beer.inventory.service.repositories.BeerInventoryRepository;

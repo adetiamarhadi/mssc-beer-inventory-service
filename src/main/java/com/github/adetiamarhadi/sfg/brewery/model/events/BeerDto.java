@@ -1,4 +1,4 @@
-package com.github.adetiamarhadi.sfg.beer.common.events;
+package com.github.adetiamarhadi.sfg.brewery.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

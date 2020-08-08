@@ -1,7 +1,7 @@
 package com.github.adetiamarhadi.sfg.beer.inventory.service.web.mappers;
 
 import com.github.adetiamarhadi.sfg.beer.inventory.service.domain.BeerInventory;
-import com.github.adetiamarhadi.sfg.beer.inventory.service.web.model.BeerInventoryDto;
+import com.github.adetiamarhadi.sfg.brewery.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 /**
